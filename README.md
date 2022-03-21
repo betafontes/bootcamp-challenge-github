@@ -1,5 +1,5 @@
-# Bootcamp-desafio-github
-Desafio de Projeto da Digital Inovation One, sobre Git/Github do Bootcamp Eduzz Fullstack Developer #3
+# bootcamp-challenge-github
+Digital Innovation One Project Challenge, on Git/Github from Bootcamp Eduzz Fullstack Developer #3
 
-Uma breve introdução sobre o Git!!
+A brief introduction to Git!!
 
